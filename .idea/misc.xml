@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/gradient_bg.xml" value="0.3625" />
+        <entry key="app/src/main/res/drawable/ic_broken_image.xml" value="0.2777777777777778" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable/ic_image_shadow.xml" value="0.2777777777777778" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2574074074074074" />
+        <entry key="app/src/main/res/layout/bottom_recycler_item.xml" value="0.34102564102564104" />
+        <entry key="app/src/main/res/layout/fragment_aptoide.xml" value="0.3453125" />
+        <entry key="app/src/main/res/layout/top_recycle_item.xml" value="0.3415384615384615" />
+        <entry key="app/src/main/res/layout/top_recycler_item.xml" value="0.3405128205128205" />
+        <entry key="app/src/main/res/menu/user_menu.xml" value="0.3458333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

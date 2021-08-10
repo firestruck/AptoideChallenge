@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aptoide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="editors_choice">Editors choice</string>
+    <string name="more">MORE</string>
+    <string name="local_top_apps">Local top apps</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="stores">Stores</string>
+    <string name="apps">Apps</string>
+</resources>
