@@ -14,7 +14,7 @@ Clean architecture pattern with MVVM.
 
 * [RxJava]( https://github.com/ReactiveX/RxJava) reactive extensions for the JVM
 
-* [Dagger-Hilt] (https://github.com/google/dagger/releases) Dependency Injection(DI)
+* [Dagger-Hilt]( https://github.com/google/dagger/releases) Dependency Injection(DI)
 
 * [Moshi](https://github.com/square/moshi) which handles the deserialisation of the returned JSON to Kotlin data objects. 
 
