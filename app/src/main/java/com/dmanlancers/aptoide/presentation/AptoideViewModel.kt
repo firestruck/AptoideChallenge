@@ -17,15 +17,13 @@ class AptoideViewModel @Inject constructor(private val getAppsUseCase: GetAppsUs
 
     val appsReceivedLiveData = MutableLiveData<Aptoide>()
     val isLoad = MutableLiveData<Boolean>()
-    val appData = MutableLiveData<Aptoide>()
+
 
 
     init {
         isLoad.value = false
     }
 
-
-    fun set(apps: Aptoide) = run { appData.value = apps }
 
     fun loadApps() {
 
